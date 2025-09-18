@@ -45,4 +45,4 @@ const imprimePropiedades = ({ nombre, codeName, vivo, edad, trajes }) => {
   console.log({ trajes });
 };
 
-console.log(tony);
+console.log();
